@@ -33,7 +33,7 @@ const ContextProvider = (props) => {
     loading,
     resultData,
     input,
-    setInput,
+    setInput
   };
 
   return (
